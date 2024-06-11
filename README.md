@@ -8,4 +8,4 @@
 
 ## DCS Plugin
 
-[streamdock-dcs plugins.zip](https://bj.key123.vip/forum.php?mod=viewthread&tid=3)
+[streamdock-dcs plugins.zip](https://github.com/flight-simulator-australia/mirabox-streamdock-downloadables/blob/main/plugins/streamdock-dcs%20plugins.zip)
